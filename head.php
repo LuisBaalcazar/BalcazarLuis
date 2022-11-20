@@ -115,7 +115,5 @@ width:30%;
   <div class="navbar">
         <a href="#">INICIO</a>
         <a href="#blog-seccion2">Estudios</a>
-        <a href="#blog-seccion3">Conocimiento Informático</a>
-        <a href="#blog-seccion4">Hooby</a>
-    	<a href="donacion.php">&#128151; Donaciones</a>
+        <a href="#blog-seccion3">Hooby</a>
         </div>
