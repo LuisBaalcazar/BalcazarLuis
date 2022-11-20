@@ -72,7 +72,7 @@ document.getElementById("elnombre").innerHTML="Luis Balcazar";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Kevin Aguilar</a></p><p><a href='eys-damaris.php'>Damaris Viallalva</a></p> ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://highkickesmeraldas.com/SusanaCharcopa/'>Susana Charcopa</a></p><p><a href='https://highkickesmeraldas.com/SimisterraAlejandra/'>Alejandra Simisterra</a></p> ";
  </script>
  
 <?php
