@@ -118,14 +118,4 @@ width:30%;
         <a href="#blog-seccion3">Conocimiento Informático</a>
         <a href="#blog-seccion4">Hooby</a>
     	<a href="donacion.php">&#128151; Donaciones</a>
-        </div>    <div class="navbar">
-        <a href="index.php">Inicio</a>
-        <a href="eys-capacitacion.php">Estudios</a>
-        <a href="eys-asesoria-tecnica.php">Conocimiento Informatico</a>
-        <a href="eys-investigacion.php">Hooby</a>
         </div>
-    
-    
-    </div>
-    
-
