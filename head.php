@@ -112,7 +112,13 @@ width:30%;
 <body  onload="prettyPrint()">
 <div id="wrapper"  style="border:5px solid red; position:relative;">
 <div id="main" >
-      <div class="navbar">
+  <div class="navbar">
+        <a href="#">INICIO</a>
+        <a href="#blog-seccion2">Estudios</a>
+        <a href="#blog-seccion3">Conocimiento Informático</a>
+        <a href="#blog-seccion4">Hooby</a>
+    	<a href="donacion.php">&#128151; Donaciones</a>
+        </div>    <div class="navbar">
         <a href="index.php">Inicio</a>
         <a href="eys-capacitacion.php">Estudios</a>
         <a href="eys-asesoria-tecnica.php">Conocimiento Informatico</a>
